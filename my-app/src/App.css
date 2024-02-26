@@ -1,0 +1,27 @@
+/* App.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  .navbar {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+  }
+  
+  .navbar-nav .nav-link {
+    font-size: 1.2rem;
+  }
+  
+  .sidebar {
+    padding-top: 20px;
+  }
+  
+  .main-content {
+    padding-top: 20px;
+  }
+  
